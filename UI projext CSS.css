@@ -1,0 +1,794 @@
+.aa{
+    color:rgba(20, 20, 218, 0.729);
+    font-weight: bold;
+}
+
+.container{
+    
+        position: relative; 
+        width: 150px;
+        height: 200px;
+        border: 1px solid #ccc;
+      
+}
+
+
+.XXX{
+    font-weight: bold;
+
+
+}
+
+.ff{
+    font-weight: bold;
+
+
+}
+.gg{
+    font-weight: bold;
+
+}
+.hh{
+    font-weight: bold;
+
+
+}
+.ii{
+    font-weight: bold;
+
+}
+
+
+
+
+.ccc{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.ddd{
+    position: absolute; 
+    left:10px;
+    top:200px;
+
+
+}
+
+
+
+.bb{
+    margin:0;
+    position:absolute;
+    top:50%;
+    
+
+
+}
+
+.cc{
+    left:50px;
+    top:200px;
+}
+.dd{
+    left:50px;
+    top:200px;
+}
+
+
+.container1{
+    
+    position: relative; 
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid #ccc;
+ 
+    
+}
+
+
+
+.aaaaaa{
+    font-weight:bold ;
+}
+
+.bbbbbb{
+    font-weight:bold ;
+
+}
+
+.cccccc{
+    font-weight:bold ;
+
+}
+.dddddd{
+    font-weight:bold ;
+
+}
+.eeeeee{
+    font-weight:bold ;
+}
+.ffffff{
+    font-weight:bold ;
+}
+
+
+
+.bbbbbb{
+    position: absolute;
+    top:0px;
+    left:150px;
+    
+    
+    
+}
+
+.cccccc{
+    position: absolute;
+    top:0px;
+    left:300px;
+
+
+
+}
+
+
+.dddddd{
+    position: absolute;
+    top:0px;
+    left:450px;
+
+
+
+}
+
+.eeeeee{
+
+    position: absolute;
+    top:0px;
+    left:600px;
+
+
+
+}
+
+.ffffff{
+    position: absolute;
+    top:0px;
+    left:750px;
+
+
+}
+
+.jj{
+    position: absolute;
+    color:blue;
+    
+    left:0px;
+
+}
+.kk{
+
+    position: absolute;
+    color:blue;
+    top:80px;
+    
+    left:0px;
+
+
+}
+
+.ll{
+
+    position: absolute;
+    color:blue;
+    top:160px;
+    
+    left:0px;
+
+
+}
+
+.mm{
+
+    position: absolute;
+    color:blue;
+    top:240px;
+    
+    left:0px;
+
+
+}
+
+.nn{
+
+    position: absolute;
+    color:blue;
+    top:320px;
+    
+    left:0px;
+
+
+}
+
+.oo{
+
+    position: absolute;
+    color:blue;
+    top:400px;
+    
+    left:0px;
+
+}
+
+.pp{
+
+    position: absolute;
+    color:blue;
+    top:480px;
+    
+    left:0px;
+
+}
+
+.qq{
+
+    position: absolute;
+    color:blue;
+    top:560px;
+    
+    left:0px;
+}
+
+.rr{
+
+    position: absolute;
+    color:blue;
+    top:640px;
+    
+    left:0px;
+}
+
+.
+
+.xxxx{
+    position: absolute;
+    left:200px;
+    top:200px;
+ 
+}
+
+
+.yyyy{
+position: absolute;
+  left: 200px;
+  top: 400px;
+}
+
+.zzzz{
+position: absolute;
+  left: 300px;
+  top: 400px;
+}
+
+
+.ss{
+
+    position: absolute;
+    top:px;
+ 
+
+    
+    left:120px;
+
+    
+
+
+}
+
+.tt{
+    position: absolute;
+    top:78px;
+ 
+
+    
+    left:120px;
+
+
+
+
+}
+.uu{
+    position: absolute;
+    top:158px;
+ 
+
+    
+    left:120px;
+
+}
+
+.vv{
+
+    position: absolute;
+    top:238px;
+ 
+
+    
+    left:120px;
+
+
+}
+
+.ww{
+
+
+    position: absolute;
+    top:318px;
+ 
+
+    
+    left:120px;
+
+
+
+
+}
+
+.xx{
+    position: absolute;
+    top:398px;
+ 
+
+    
+    left:120px;
+
+
+
+
+}
+
+.yy{
+    position: absolute;
+    top:478px;
+ 
+
+    
+    left:120px;
+
+
+
+}
+
+.zz{
+    position: absolute;
+    top:558px;
+ 
+
+    
+    left:120px;
+
+}
+
+.cccc{
+
+    position: absolute;
+    top:638px;
+ 
+
+    
+    left:120px;
+
+
+
+}
+
+.dddd{
+    position: absolute;
+    top:px;
+ 
+
+    
+    left:280px;
+}
+
+.eeee{
+
+    position: absolute;
+    top:77px;
+ 
+
+    
+    left:280px;
+}
+
+.ffff{
+
+    position: absolute;
+    top:157px;
+ 
+
+    
+    left:280px;
+
+}
+
+.gggg{
+
+    position: absolute;
+    top:237px;
+ 
+
+    
+    left:280px;
+
+
+
+
+
+}
+.hhhh{
+
+    position: absolute;
+    top:317px;
+ 
+
+    
+    left:280px;
+
+}
+.iiii{
+
+    position: absolute;
+    top:397px;
+ 
+
+    
+    left:280px;
+}
+
+.jjjj{
+    position: absolute;
+    top:477px;
+ 
+
+    
+    left:280px;
+
+
+
+}
+
+.kkkk{
+
+
+    position: absolute;
+    top:557px;
+ 
+
+    
+    left:280px;
+
+
+}
+
+.llll{
+
+    position: absolute;
+    top:637px;
+ 
+
+    
+    left:280px;
+
+
+}
+
+.mmmm{
+
+    position: absolute;
+    top:px;
+ 
+
+    
+    left:480px;
+     
+}
+
+.nnnn{
+
+    position: absolute;
+    top:77px;
+ 
+
+    
+    left:480px;
+     
+
+
+
+}
+
+.oooo{
+
+
+    
+    position: absolute;
+    top:157px;
+ 
+
+    
+    left:480px;
+     
+}
+
+.pppp{
+
+    position: absolute;
+    top:237px;
+ 
+
+    
+    left:480px;
+     
+}
+
+.qqqq{
+
+    position: absolute;
+    top:317px;
+ 
+
+    
+    left:480px;
+}
+
+.rrrr{
+
+    position: absolute;
+    top:397px;
+ 
+
+    
+    left:480px;
+
+}
+
+.ssss{
+
+    position: absolute;
+    top:477px;
+ 
+
+    
+    left:480px;
+
+}
+
+.tttt{
+    position: absolute;
+    top:557px;
+ 
+
+    
+    left:480px;
+
+}
+.uuuu{
+
+    position: absolute;
+    top:637px;
+ 
+
+    
+    left:480px;
+
+}
+
+.vvvv{
+
+    position: absolute;
+    top:px;
+ 
+
+    
+    left:610px;
+
+}
+
+.wwww{
+    position: absolute;
+    top:71px;
+ 
+
+    
+    left:610px;
+
+
+}
+.xxxx{
+    position: absolute;
+    top:157px;
+ 
+
+    
+    left:610px;
+
+}
+.yyyy{
+
+    position: absolute;
+    top:237px;
+ 
+
+    
+    left:610px;
+
+
+}
+.zzzz{
+
+    position: absolute;
+    top:317px;
+    ;
+ 
+
+    
+    left:610px;
+
+}
+
+
+.aaaaa{
+    position: absolute;
+    top:397px;
+ 
+
+    
+    left:610px;
+}
+
+.bbbbb{
+    position: absolute;
+    top:477px;
+ 
+
+    
+    left:610px;
+
+}
+
+.ccccc{
+    position: absolute;
+    top:557px;
+ 
+
+    
+    left:610px;
+}
+
+.ddddd{
+    position: absolute;
+    top:637px;
+ 
+
+    
+    left:610px;
+
+}
+
+.eeeee{
+    position: absolute;
+    top:px;
+ 
+
+    
+    left:750px;
+
+}
+
+.fffff{
+    position: absolute;
+    top:77px;
+ 
+
+    
+    left:750px;
+
+}
+
+.ggggg{
+    position: absolute;
+    top:157px;
+ 
+
+    
+    left:750px;
+
+}
+.hhhhh{
+    position: absolute;
+    top:237px;
+ 
+
+    
+    left:750px;
+
+
+}
+.iiiii{
+    position: absolute;
+    top:317px;
+ 
+
+    
+    left:750px;
+
+}
+
+.jjjjj{
+    position: absolute;
+    top:397px;
+ 
+
+    
+    left:750px;
+
+}
+
+.kkkkk{
+    position: absolute;
+    top:477px;
+ 
+
+    
+    left:750px;
+
+}
+
+.lllll{
+
+    position: absolute;
+    top:557px;
+ 
+
+    
+    left:750px;
+
+}
+
+.mmmmm{
+    position: absolute;
+    top:637px;
+ 
+
+    
+    left:750px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
